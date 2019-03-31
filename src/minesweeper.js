@@ -1,8 +1,3 @@
-/**
- * Minesweeper management module.
- * @module minesweeper.js
- */
-
 const CellStateEnum = require('./enums/CellStateEnum');
 const CellFlagEnum = require('./enums/CellFlagEnum');
 const BoardStateEnum = require('./enums/BoardStateEnum');

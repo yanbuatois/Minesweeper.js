@@ -1,8 +1,4 @@
 /**
- * @module minesweeper.js/CellStateEnum
- */
-
-/**
  * @readonly
  * @enum {Number} Enumeration about the Cell's state.
  */

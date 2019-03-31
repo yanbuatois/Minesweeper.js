@@ -1,7 +1,3 @@
-/**
- * @module minesweeper.js/generateMineArray
- */
-
 const {singleToMultidimensionalArray} = require('./helpers');
 
 /**

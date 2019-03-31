@@ -1,8 +1,4 @@
 /**
- * @module minesweeper.js/CellFlagEnum
- */
-
-/**
  * @readonly
  * @enum {Number} Enumeration used to know if a cell has a flag.
  */

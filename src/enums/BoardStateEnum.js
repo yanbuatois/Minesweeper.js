@@ -1,7 +1,4 @@
 /**
- * @module minesweeper.js/BoardStateEnum
- */
-/**
  * @readonly
  * @enum {Number} Enumeration used to know the status of the game.
  */

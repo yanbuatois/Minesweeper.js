@@ -46,6 +46,8 @@ module.exports = {
     host: '0.0.0.0',
     port: 8080,
   },
+  plugins: [
+  ],
   optimization: {
     minimize: true,
     minimizer: [new UglifyJsPlugin({
