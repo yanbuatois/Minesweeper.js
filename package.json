@@ -1,0 +1,39 @@
+{
+  "name": "minesweeper.js",
+  "version": "1.0.0",
+  "description": "Minesweeper library for Javascript, written in ES2018",
+  "main": "dist/minesweeper.js",
+  "scripts": {
+    "test": "mocha",
+    "build": "webpack",
+    "serve": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanbuatois/minesweeper.js.git"
+  },
+  "keywords": [
+    "Minesweeper",
+    "ES2018",
+    "ES6",
+    "ES2015"
+  ],
+  "author": "Yan Buatois <yanbuatois@outlook.fr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yanbuatois/minesweeper.js/issues"
+  },
+  "homepage": "https://github.com/yanbuatois/minesweeper.js#readme",
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.3.1",
+    "babel-loader": "^8.0.5",
+    "eslint": "^5.16.0",
+    "eslint-config-google": "^0.12.0",
+    "mocha": "^6.0.2",
+    "uglifyjs-webpack-plugin": "^2.1.2",
+    "webpack": "^4.29.0",
+    "webpack-cli": "^3.2.1",
+    "webpack-dev-server": "^3.1.14"
+  }
+}
